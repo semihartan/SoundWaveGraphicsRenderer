@@ -7,4 +7,4 @@ So, that is all.
 
 And the result is as follows.
 
-![SoundWave](Images/SoundWaveFigure.png)
+![SoundWave](SoundWaveGraphicsRenderer/Images/SoundWaveFigure.png)
